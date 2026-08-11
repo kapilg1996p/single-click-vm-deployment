@@ -7,6 +7,10 @@ rgs = {
     name     = "docker"
     location = "Central India"
   }
+   rg3 = {
+    name     = "terraform"
+    location = "Central India"
+  }
 }
 
 vnet = {
